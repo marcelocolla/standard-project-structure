@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [![Web Starter Kit](https://cloud.githubusercontent.com/assets/170270/3343034/ceef6e92-f899-11e3-96b9-5d9d69d97a00.png)](https://github.com/google/web-starter-kit/releases/latest)
 
 ## Overview
@@ -73,3 +74,7 @@ Contributions, questions and comments are all welcome and encouraged. For code c
 
 Apache 2.0  
 Copyright 2014 Google Inc
+=======
+# standard-project-structure
+Structure of front-end design using html5, css, js. gulp
+>>>>>>> 1a716b6402ded0bfca31151a076b28c2c9d189c6
